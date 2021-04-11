@@ -1,0 +1,106 @@
+.background-white {
+  background-color: white;
+}
+.full-height {
+  height: 100vh;
+}
+.searchBox {
+  border: 1px solid grey;
+  border-radius: 5px;
+  height: 50px;
+  width: 100%;
+  background: #c4c8cf;
+  padding-left: 50px;
+}
+.searchBox[disabled] {
+  background: #c4c8cf;
+}
+.searchButton {
+  background: whitesmoke;
+  border: 1px solid grey;
+}
+.search_icon {
+  width: 20px;
+  height: 20px;
+}
+.text-grey {
+  color: #505451;
+}
+.searchRow {
+  flex: 0 1 auto;
+}
+.resultRow {
+  flex: 0 1 auto;
+}
+.logoRow,
+.tableRow {
+  flex: 1 1 auto;
+}
+.color-black {
+  color: black;
+}
+.calender-icon {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 20px;
+  top: 13px;
+}
+.tableRow tbody tr:hover {
+  cursor: pointer;
+}
+.tableRow tbody tr:hover .greyBox {
+  color: white !important;
+}
+.tableRow tbody tr:hover :not(td:nth-child(4)) {
+  color: blue;
+}
+
+.greyBox {
+  background: grey;
+  border-radius: 5px;
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.clip {
+  width: 20px;
+  height: 20px;
+}
+.down-arrow {
+  width: 10px;
+  height: 10px;
+}
+.mb-version-header-bg {
+  background: #e9ecef;
+  border-top: 1px solid #c4c8cf;
+  border-bottom: 1px solid #c4c8cf;
+}
+.mb-version-desc-item-container {
+  border-top: 1px solid #c4c8cf;
+  border-bottom: 1px solid #c4c8cf;
+}
+.mail {
+  width: 15px;
+  flex: 0 1 auto;
+}
+.rightArrow {
+  width: 10px;
+  height: 10px;
+}
+.mb-email-head-desc {
+  flex: 1 1 auto;
+}
+.mobile-version .mb-version-desc-item-container:hover {
+  cursor: pointer;
+  background: #e9ecef;
+}
+.font-size-large {
+  font-size: 20px;
+}
+.dialogTitle {
+  background: #e9ecef;
+}
+.dialogClose {
+  background: #e9ecef;
+}

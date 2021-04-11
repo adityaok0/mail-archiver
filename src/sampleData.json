@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "from": "aaa@example.com",
+      "to": { "item": "zzz.zzz@example.com", "numberOfRec": null },
+      "subject": {
+        "item": "[ HR-888 ] Notice of official announcement",
+        "clip": false
+      },
+      "date": "2:40"
+    },
+    {
+      "from": "bbb@example.com",
+      "to": { "item": "bbb.zzz@example.com", "numberOfRec": null },
+      "subject": {
+        "item": "[web:333] 'Web Contact'",
+        "clip": false
+      },
+      "date": "0:30"
+    },
+    {
+      "from": "ccc@example.com",
+      "to": { "item": "ccc.zzz@example.com", "numberOfRec": null },
+      "subject": {
+        "item": "Happy New Year! Greetings for the New Year.",
+        "clip": false
+      },
+      "date": "0:45"
+    },
+    {
+      "from": "ddd@example.com",
+      "to": { "item": "dddd.zzz@example.com", "numberOfRec": null },
+      "subject": {
+        "item": "[HR-887(Revised: Office Expansion Project Team)] Notice of off...",
+        "clip": true
+      },
+      "date": "0:60"
+    },
+    {
+      "from": "eee@example.com",
+      "to": { "item": "eee.zzz@example.com", "numberOfRec": null },
+      "subject": {
+        "item": "[Github] Logout page",
+        "clip": true
+      },
+      "date": "1:15"
+    },
+    {
+      "from": "fff@example.com",
+      "to": { "item": "fff.zzz@example.com", "numberOfRec": null },
+      "subject": {
+        "item": "[dev］ Postfix 3.1.12 / 3.2.9 / 3.3.4 / 3.4.5",
+        "clip": true
+      },
+      "date": "1:30"
+    },
+    {
+      "from": "ggg@example.com",
+      "to": { "item": "ggg.zzz@example.com", "numberOfRec": null },
+      "subject": {
+        "item": "Re: [Github] Brush-up on loading animation",
+        "clip": false
+      },
+      "date": "1:45"
+    },
+    {
+      "from": "hhh@example.com",
+      "to": { "item": "hhh.zzz@example.com", "numberOfRec": 1 },
+      "subject": {
+        "item": "Workplace Summary for sample, Inc.: Jun 2 - Jun 34",
+        "clip": false
+      },
+      "date": "1:60"
+    },
+    {
+      "from": "iii@example.com",
+      "to": { "item": "iii.zzz@example.com", "numberOfRec": 2 },
+      "subject": {
+        "item": "I love yo",
+        "clip": false
+      },
+      "date": "2:25"
+    },
+    {
+      "from": "jjj@example.com",
+      "to": { "item": "jjj.zzz@example.com", "numberOfRec": 3 },
+      "subject": {
+        "item": "[info:888] ABC EQUIPMENT COMPAN",
+        "clip": true
+      },
+      "date": "3:15"
+    }
+  ]
+}
